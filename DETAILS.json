@@ -1,0 +1,11 @@
+{
+	"links": {
+		"help file": "./help.txt",
+		"github repo": "https://github.com/Blaineworld/csprojects"
+	},
+	"description": [
+		"CSProjects is this website.",
+		"",
+		"Its page is here for demonstration purposes."
+	]
+}
